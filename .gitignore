@@ -1,0 +1,7 @@
+input/
+*.keras
+*.wav
+readme.txt
+Speech Recognition.ipynb
+
+
