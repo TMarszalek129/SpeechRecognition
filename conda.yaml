@@ -8,6 +8,7 @@ dependencies:
    - pyaudio
    - scipy
    - matplotlib
+   - seaborn
    - scikit-learn
    - pyttsx3
    - jupyterlab
